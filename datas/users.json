@@ -1,0 +1,60 @@
+[
+    {
+        "username": "admin",
+        "email": "admin@ikarrental.hu",
+        "password_hash": "$2y$10$Gl\/Zqg1NY75Amkvf9JQLSObFDR22vR\/SpgXDSYCmupDKmKrqD3zNC",
+        "bookings": []
+    },
+    {
+        "username": "kuccerator",
+        "email": "barath.reka14@gmail.com",
+        "password_hash": "$2y$10$ODhfMZGm\/fxM42oLNUKYnO8YodtcWYSzXjiR0.VB9.SXhkJjWTRKK",
+        "bookings": [
+            {
+                "id": "5",
+                "start_date": "2025-02-03",
+                "end_date": "2025-04-05"
+            },
+            {
+                "id": "4",
+                "start_date": "2025-02-03",
+                "end_date": "2025-02-05"
+            },
+            {
+                "id": "2",
+                "start_date": "2025-01-20",
+                "end_date": "2025-01-20"
+            }
+        ]
+    },
+    {
+        "username": "od6o6w",
+        "email": "od6o6w@inf.elte.hu",
+        "password_hash": "$2y$10$Q4vXOMwTNQ34sIi.RT9QPeH0JwY0SpuxWdpfcSF\/J6dxj26JuNnJS",
+        "bookings": [
+            {
+                "id": "9",
+                "start_date": "2025-04-04",
+                "end_date": "2025-04-05"
+            }
+        ]
+    },
+    {
+        "username": "barathagi",
+        "email": "barathagi@gmail.com",
+        "password_hash": "$2y$10$Cry2MNNDEazTE90fw.liaeRsqIhoxK6YvA2apS0Db4v4tY4EYMxIm",
+        "bookings": [
+            {
+                "id": "3",
+                "start_date": "2025-01-13",
+                "end_date": "2025-01-16"
+            }
+        ]
+    },
+    {
+        "username": "kuki",
+        "email": "andorpeter@gmail.com",
+        "password_hash": "$2y$10$.71b9L.uN9B4pRLTJH2Lx.RTnZ011xqGT1vNJlPnLr4xw7yIcElPG",
+        "bookings": []
+    }
+]
