@@ -2,7 +2,7 @@
 *Baráth Réka*
 
 .
-|_ **actions**
+|_ **actions**<br>
 |    |_ delete_car.php
 |    |_ delete_reservation.php
 |    |_ edit_car.php
