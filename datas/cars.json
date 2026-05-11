@@ -1,0 +1,180 @@
+[
+    {
+        "id": 1,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 18000,
+        "image": "https:\/\/www.motorhang.hu\/static\/medias\/17128\/A-valasz-Honda-Civic-eHEV-Advance_6f1e5411e95ae79330f1e2dd06e2c5cb.jpg",
+        "bookings": []
+    },
+    {
+        "id": 2,
+        "brand": "Bizzarrini",
+        "model": "Strada",
+        "year": 1970,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 150000,
+        "image": "https:\/\/silodrome.com\/wp-content\/uploads\/2021\/11\/Bizzarrini-5300-GT-Strada.jpg",
+        "bookings": [
+            {
+                "start_date": "2025-01-20",
+                "end_date": "2025-01-20"
+            },
+            {
+                "start_date": "2025-01-30",
+                "end_date": "2040-01-30"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "brand": "Chrysler",
+        "model": "Pacifica",
+        "year": 2010,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 5,
+        "daily_price_huf": 35700,
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/9\/9e\/2020_Chrysler_Pacifica_Touring-L_in_Bright_White%2C_front_left.jpg",
+        "bookings": [
+            {
+                "start_date": "2025-01-13",
+                "end_date": "2025-01-16"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "brand": "Ferrari",
+        "model": "F40",
+        "year": 1996,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 250000,
+        "image": "https:\/\/cdn.motor1.com\/images\/mgl\/AkBrkN\/s3\/foto---ferrari-f40-americana-del-1991-all-asta.jpg",
+        "bookings": [
+            {
+                "start_date": "2025-02-03",
+                "end_date": "2025-02-05"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "Volkswagen",
+        "model": "Arteon",
+        "year": 2016,
+        "transmission": "Manual",
+        "fuel_type": "Diesel",
+        "passengers": 5,
+        "daily_price_huf": 45500,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlRiEv2XOt-nwwHf8CNdA_6R8_f9h4jyfsBQ&s",
+        "bookings": [
+            {
+                "start_date": "2025-02-03",
+                "end_date": "2025-04-05"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "year": 2021,
+        "transmission": "Automatic",
+        "fuel_type": "Hybrid",
+        "passengers": 5,
+        "daily_price_huf": 18500,
+        "image": "https:\/\/toyotaveszprem.hu\/wp-content\/uploads\/2020\/03\/toyota-corolla-hatchback-05-full_tcm-3033-1584868.jpg",
+        "bookings": []
+    },
+    {
+        "id": 7,
+        "brand": "Porsche",
+        "model": "911",
+        "year": 1988,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 120700,
+        "image": "https:\/\/cdn.motor1.com\/images\/mgl\/XB3q7k\/s1\/2023-porsche-911-carrera-t-in-python-green.webp",
+        "bookings": []
+    },
+    {
+        "id": 8,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "transmission": "Automatic",
+        "fuel_type": "Electric",
+        "passengers": 5,
+        "daily_price_huf": 45000,
+        "image": "https:\/\/www.shop4tesla.com\/cdn\/shop\/articles\/lohnt-sich-ein-gebrauchtes-tesla-model-3-vor-und-nachteile-833053.jpg?v=1733570691",
+        "bookings": [
+            {
+                "start_date": "2026-01-02",
+                "end_date": "2026-01-04"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "brand": "Ford",
+        "model": "Mustang",
+        "year": 1967,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 4,
+        "daily_price_huf": 130000,
+        "image": "https:\/\/assets.adac.de\/image\/upload\/v1\/Autodatenbank\/Fahrzeugbilder\/im04988-1-ford-mustang.jpg",
+        "bookings": [
+            {
+                "start_date": "2025-04-04",
+                "end_date": "2025-04-05"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "brand": "Lamborghini",
+        "model": "Huracan",
+        "year": 2020,
+        "transmission": "Automatic",
+        "fuel_type": "Petrol",
+        "passengers": 2,
+        "daily_price_huf": 300000,
+        "image": "https:\/\/assets.adac.de\/image\/upload\/v1\/Autodatenbank\/Fahrzeugbilder\/im06222-1-lamborghini-huracan-sto.jpg",
+        "bookings": []
+    },
+    {
+        "id": 11,
+        "brand": "BMW",
+        "model": "X5",
+        "year": 2018,
+        "transmission": "Automatic",
+        "fuel_type": "Diesel",
+        "passengers": 5,
+        "daily_price_huf": 60000,
+        "image": "https:\/\/cdn.dicklovett.co.uk\/uploads\/new_vehicle\/4_174_f.jpg?v=1731497999",
+        "bookings": []
+    },
+    {
+        "id": 12,
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "year": 2019,
+        "transmission": "Manual",
+        "fuel_type": "Petrol",
+        "passengers": 4,
+        "daily_price_huf": 52000,
+        "image": "https:\/\/euroring.hu\/wp-content\/uploads\/2023\/02\/chevorlet-camaro-elmenyvezetes-2-e1702814689356.jpg",
+        "bookings": []
+    }
+]
