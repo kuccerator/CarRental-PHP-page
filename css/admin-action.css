@@ -1,0 +1,148 @@
+body {
+    background-color: #1c1c1e;
+    color: #FFB84A;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column;
+}
+#main {
+    text-shadow: 4px 4px 4px black;
+}
+#main:hover {
+    font-size: larger;
+}
+#menu {
+    background-color: #3a3a3c;
+    padding-left: 0.5%;
+    font-size: 1.2rem;
+    font-weight: 500;
+    width: 100%;
+}
+#menu img {
+    width: 40px;
+    border-radius: 15px;
+    box-shadow: none;
+}
+#menu img:hover {
+    transform: scale(1.1);
+}
+#buttons button {
+    border-radius: 10px;
+    font-size: 1rem;
+    padding: 5px 5px;
+    font-weight: 500;
+    border: none;
+    color: #ffffff;
+}
+#buttons button {
+    border-radius: 10px;
+    background-color: #FFDB58;
+    color: #1c1c1e;
+    font-weight: 500;
+    padding: 5px 5px;
+}
+#buttons {
+    padding-right: 1%;
+}
+#buttons button:hover {
+    background-color: #FFB84A;
+    font-weight: 700;
+}
+a, a:hover {
+    text-decoration: none;
+    color: black;
+}
+nav {
+    color: white;
+}
+section#admin-action {
+    width: 80%;
+    max-width: 800px;
+    background-color: #2c2c2e;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+select, input {
+    font-weight: 600;
+}
+input::placeholder, select {
+    color: gray;
+}
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+input, select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-size: 1.1rem;
+}
+form button {
+    border-radius: 20px;
+    background-color: #FFDB58;
+    color: #1c1c1e;
+    font-weight: 600;
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, font-weight 0.3s ease;
+    width: 100%;
+}
+form button:hover {
+    background-color: #FFB84A;
+    font-weight: 700;
+}
+#submit-button {
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: #FFDB58;
+    font-weight: 600;
+}
+img {
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 8px 16px black;
+    position: relative;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+img:hover {
+    transform: scale(1.05);
+}
+
+@media (max-width: 768px) {
+    section#user-action {
+        padding: 20px;
+        width: 90%;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    input, select {
+        font-size: 1rem;
+        padding: 10px;
+    }
+    
+    button {
+        font-size: 1.2rem;
+        padding: 12px 25px;
+    }
+}
