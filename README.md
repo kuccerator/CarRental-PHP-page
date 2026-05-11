@@ -1,4 +1,4 @@
-# ELTE Webprogramozás tárgy (3. félév) beadandó
+# ELTE computer science - Webprogramming subject (3. semester) 
 *Baráth Réka*
 
 .<br>
